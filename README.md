@@ -1,12 +1,12 @@
-# ð³ï¸ Indian Election Analysis Dashboard
+# 🗳️ Indian Election Analysis Dashboard
 
-### ð Project Overview
+### 📊 Project Overview
 This project presents an **interactive Power BI dashboard** that visualizes Indian election data across multiple states, years, and political parties.  
-It allows users to explore **voting trends, party performance, and voter demographics** interactively, providing actionable insights into Indiaâs electoral landscape.
+It allows users to explore **voting trends, party performance, and voter demographics** interactively, providing actionable insights into India’s electoral landscape.
 
 ---
 
-## ð¯ Objectives
+## 🎯 Objectives
 - Analyze historical election data from **1962 to 2019**.
 - Compare **party-wise performance** across different states and constituencies.
 - Study **voter turnout patterns** in **urban vs. rural** regions.
@@ -15,7 +15,7 @@ It allows users to explore **voting trends, party performance, and voter demogra
 
 ---
 
-## ð§© Dataset Information
+## 🧩 Dataset Information
 **Dataset Name:** `indian-state-level-election.csv`  
 **Source:** Collected from publicly available Indian election statistics.
 
@@ -36,14 +36,14 @@ It allows users to explore **voting trends, party performance, and voter demogra
 
 ---
 
-## ð Dashboard Highlights
+## 📈 Dashboard Highlights
 
-### ð§­ Filters and Slicers
-- **State Selector** â View results for specific Indian states.
-- **Party and Candidate Name** â Compare performance of parties and candidates.
-- **Year Range Slider (1962â2019)** â Analyze election trends over time.
+### 🧭 Filters and Slicers
+- **State Selector** – View results for specific Indian states.
+- **Party and Candidate Name** – Compare performance of parties and candidates.
+- **Year Range Slider (1962–2019)** – Analyze election trends over time.
 
-### ðºï¸ Key Visuals
+### 🗺️ Key Visuals
 1. **Map View:** Displays state-wise winning party distribution.  
 2. **Seats Won Card:** Shows total number of seats won (e.g., 2825 seats).  
 3. **Urban & Rural Turnout Gauges:** Indicates voter engagement by region.  
@@ -55,16 +55,16 @@ It allows users to explore **voting trends, party performance, and voter demogra
 
 ---
 
-## ð§  Insights Derived
+## 🧠 Insights Derived
 - The **Indian National Congress** showed widespread dominance across several election years.  
 - **Urban vs. Rural turnout** remained relatively balanced, with minor variations depending on region.  
-- **Younger voters (18â25)** show strong participation in recent years.  
+- **Younger voters (18–25)** show strong participation in recent years.  
 - **Male and female voting participation** rates are closely matched, showing gender balance in elections.  
 - Certain states consistently favor specific parties, revealing **regional strongholds**.
 
 ---
 
-## ð ï¸ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 | Tool | Purpose |
 |------|----------|
 | **Power BI** | Data visualization and dashboard creation |
@@ -74,7 +74,7 @@ It allows users to explore **voting trends, party performance, and voter demogra
 
 ---
 
-## ð How to Use
+## 🚀 How to Use
 1. **Download the Power BI file:**  
    `Election final dashboard.pbix`
 
@@ -87,19 +87,19 @@ It allows users to explore **voting trends, party performance, and voter demogra
 
 ---
 
-## ð Repository Structure
+## 📂 Repository Structure
 
 ```
 indian-election-analysis-dashboard/
-â
-âââ indian-state-level-election.csv      # Dataset
-âââ Election final dashboard.pbix        # Power BI project file
-âââ README.md                            # Project documentation
-âââ /images                              # Screenshots of dashboard
+│
+├── indian-state-level-election.csv      # Dataset
+├── Election final dashboard.pbix        # Power BI project file
+├── README.md                            # Project documentation
+└── /images                              # Screenshots of dashboard
 ```
 ---
 
-## ð¡ Future Enhancements
+## 💡 Future Enhancements
 - Add real-time election updates using APIs.  
 - Include **predictive analytics** to forecast election outcomes.  
 - Integrate **Power BI Service** for web-based access.  
@@ -107,14 +107,16 @@ indian-election-analysis-dashboard/
 
 ---
 
-## ð§âð» Author
-**Project By:** Karri tejaswani
+## 🧑‍💻 Author
+**Project By:** Karri Tejaswani  
 **Team Members:** Lalit, jayanth, and Mudit  
 **Tools Used:** Power BI, Excel, GitHub  
 
 ---
 
-## â­ Acknowledgments 
+
+
+## ⭐ Acknowledgments
 Special thanks to my teammates Lalit,jayanth and Mudit for their collaboration, contributions, and support throughout the project.
 
 This dashboard was created as part of the Infosys Springboard Data Analytics Virtual Internship, serving as the Final Milestone Project.
